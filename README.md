@@ -102,8 +102,4 @@
 ## 附註
 完整的測試數據和詳細的性能指標可在test_results檔案中查看。此分析報告基於單次測試結果,實際應用中的表現可能會有所不同。
 
-相關網站
-https://chatapi.akash.network
-https://openai.com/api/
-
 
